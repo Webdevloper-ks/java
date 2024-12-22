@@ -7,6 +7,4 @@ class A
 	}
 }
 
-class Ansh{
-    int no;
-}
+
